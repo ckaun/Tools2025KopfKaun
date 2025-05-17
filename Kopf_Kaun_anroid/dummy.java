@@ -1,5 +1,11 @@
 <<<<<<< HEAD
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { 
+	int ctr = 0;
+	for (int i = 0; i < 10; i++) {
+		ctr++;
+	}
+	System.out.println("Counter: " + ctr);
+}
 =======
 /* HelloWorld.java
  */
