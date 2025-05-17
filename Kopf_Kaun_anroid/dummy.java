@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { 
+	System.out.println("Hello World!");
+}
 =======
 /* HelloWorld.java
  */
