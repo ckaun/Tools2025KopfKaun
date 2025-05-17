@@ -6,6 +6,9 @@ public void thisIsANewMethod() {
 	}
 	System.out.println("Counter: " + ctr);
 }
+public void thisIsANewMethod() { 
+	System.out.println("Hello World!");
+}
 =======
 /* HelloWorld.java
  */
