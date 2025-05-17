@@ -5,6 +5,8 @@ public void thisIsANewMethod() {
 		ctr++;
 	}
 	System.out.println("Counter: " + ctr);
+
+	System.out.println("Fixed the bug!")
 }
 public void thisIsANewMethod() { 
 	System.out.println("Hello World!");
