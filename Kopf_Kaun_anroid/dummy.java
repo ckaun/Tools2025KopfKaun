@@ -10,7 +10,16 @@ public void thisIsANewMethod() {
 	System.out.println("Hello World!");
 }
 
-public class simpleCalculation ();
+public class SimpleCalculation {
+
+    public static void main(String[] args) {
+        int a = 6;
+        int b = 7;
+        int result = a * b;
+
+        System.out.println("Das Ergebnis von " + a + " * " + b + " ist: " + result);
+    }
+}
 =======
 /* HelloWorld.java
  */
