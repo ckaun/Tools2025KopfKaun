@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 public void thisIsANewMethod() { }
+=======
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+>>>>>>> a3ea717f31a6bef43850538928947ecd61d8c831
